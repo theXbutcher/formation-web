@@ -82,3 +82,7 @@ A la prochaine séance qui aura lieu le mercredi 15 novembre à 20h, nous regard
 ### Annonce
 
 Certains ont déjà fait de jolis sites sur notre hébergement et nous les en félicitons. Demain nous aborderons le monde des templates web ainsi qu'un miniframework html/css/js qu'est Bootstrap. A demain !
+
+### Slides
+
+https://docs.google.com/presentation/d/1q053bUunEgBERAblGZB6U48LhbWq8i1IPSSJkNveFSQ
