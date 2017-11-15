@@ -1,6 +1,9 @@
 # Ressources de la formation du Club Informatique des Ponts
 
-### Utiliser ce projet
+## Visualiser ce projet
+Allez à https://kiclubinfo.github.io/formation-web/
+
+## Utiliser ce projet
 * Installer Git
 * Se placer dans un répertoire de travail
 * `git clone http://github.com/KIClubinfo/formation-web.git`
@@ -15,7 +18,6 @@ Template original à /ressources/maintenance.zip
 
 ## Bootstrap
 Tuto : https://www.w3schools.com/bootstrap/
-
 
 ## Séance 1 - 04/10/2017
 
